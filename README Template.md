@@ -173,8 +173,7 @@ Users are primiarily developers who are struggling with README creation and upda
 
 ### Installation
 1. Navigate to [LondresRi README-Assistance repository](https://github.com/LondresRi/README-Assistance)
-2. Clone the repository: 
-`$ git clone https://github.com/LondresRi/README-Assistance.git`
+2. Clone the repository: `$ git clone https://github.com/LondresRi/README-Assistance.git`
 
 ------------------------------
 
@@ -199,11 +198,11 @@ If you have any feedback or concerns, please contact one of the contributors.
 
 ## ⚖ License
 
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT). Copyright (C) 2019 Shawn Lunsford. All Rights Reserved.
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT). Copyright (C) 2020 Shawn Lunsford. All Rights Reserved.
 ```
 MIT License
 
-Copyright (c) 2019 Shawn Lunsford.
+Copyright (c) 2020 Shawn Lunsford.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
